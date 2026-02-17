@@ -22,4 +22,6 @@ Projeto publicado via GitHub Pages.
 
 ## ⚠️ Observação
 Projeto fictício desenvolvido para fins educacionais e portfólio.
+Totalmente autoral .
+Direito de imagens reservados a Yasmim Bernardo .
 
